@@ -1,0 +1,381 @@
+.main_page{
+    width: 100%;
+    height: 3100vh;
+    background-color: #01273A;
+    
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  @media (min-width: 576px) {
+    .container {
+      max-width: 540px;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .container {
+      max-width: 720px;
+    }
+  }
+  
+  @media (min-width: 992px) {
+    .container {
+      max-width: 960px;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .container {
+      max-width: 1140px;
+    }
+  }
+  
+.row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+.col {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    max-width: 100%;
+  }
+.col-3 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+
+.col-6 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+
+.pageOne{
+    position: relative;
+    height: 100vh;
+    /* background-color:yellowgreen; */
+}
+/*Test*/
+.trigger{
+    position: absolute;
+    top:0;
+    height: 100vh;
+    width: 100%;
+}
+/*Test*/
+
+.img_logo{
+    /* vertical-align: middle; */
+    top:50%;
+    position: absolute;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+.img_logo img{
+    width: 30vh;
+    height: auto;
+}
+/* content page 1 */
+.page1_content{
+    padding-top: 5vh;
+}
+.page1_ct1{
+    text-align: right;
+}
+.page1_ct1 h2{
+    color: white;
+    font-size: 6vh;
+    margin-top: 1vh;
+    padding-right:20px;
+}
+.page1_ct2{
+    text-align: left;
+
+}
+.page1_ct2 h1{
+    color: #F4981C;
+    
+    font-size: 8vh;
+}
+
+.img_girl{    
+    bottom:0%;
+    position: absolute;
+    left:50%;
+    transform:translate(-50%,0%);
+}
+.img_girl img{
+    width: 60vh;
+    height: auto;
+}
+/* content page 2 */
+.pageTwo{
+    position: relative;
+    height: 100vh;
+    /* background-color:rgb(70, 1, 70);
+    opacity: 0.6; */
+    opacity: 1;
+    /* display: none; */
+}
+
+.page2_img_app{
+    top:0%;
+    position: absolute;
+    left:30%;
+    transform:translate(-50%,-50%);
+}
+.page2_img_appstore img{
+    width: 35vh;
+
+}
+.page2_img_chplay{
+    margin-top:20px;
+}
+.page2_img_chplay img{
+    width: 35vh;
+}
+.page2_img_phone{
+    top:50%;
+    position: absolute;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+.page2_img_phone img{
+    width: auto;
+    height: 90vh;
+}
+
+/* page 2 content */
+.page2_content{
+    position: absolute; 
+    font-size: 3.5vh;
+    text-align: left;
+    top:39%;
+    left:30%;
+    transform:translate(-50%,-50%);
+}
+.toolcheck img{
+    width: 40vw;
+    position: absolute;
+}
+.page2_ct1{
+    color: white;
+    font-weight: 500;
+    font-size:5vh;
+    /* padding-left: 20vh; */
+}
+.page2_ct2{
+    color: white;
+    font-weight: 500;
+    padding-top:5vh;
+}   
+.page2_ct2_money{
+    color: #F4981C;
+    font-weight: bold;
+
+}
+.page2_ct3{
+    color: white;
+    font-weight: 500;
+    padding-top:4vh;
+}
+.page2_ct3_money{
+    color:  #F4981C;
+    font-weight: bold;
+}
+.page2_ct4{
+    padding-top:5vh;
+
+}
+.page2_ct4_tip{
+    color: white;
+    font-weight: 500;
+}
+.page2_ct4_money{
+    color:  #F4981C;
+    font-weight: bold;
+}
+.page2_ct4_ct{
+    color: white;
+    font-weight: 500;
+
+}
+.page2_ct5{
+    color: white;
+    font-weight: bold;
+} 
+.page2_ct6{
+    position: absolute; 
+    text-align: center;
+    font-size: 5vh;
+    color: white;
+    font-weight: bold;
+    bottom:0%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+
+/* content page 3 */
+.pageThree{
+    position: relative;
+    height: 100vh;
+}
+.page3_title{
+    color: white;
+    position: absolute; 
+    font-size: 4vh;
+    font-weight: bold;
+    top:10%;
+    width: 100%;
+    text-align: center;
+}
+
+/* Page 3 img */
+.page3_icon{
+    width: 100%;
+    text-align: center;
+
+}
+.page3_icon img{
+    width: 80%;
+}
+.page3_ct{
+    color: white;
+    font-weight: bold;
+    font-size: 3vh;
+    /* position: absolute;  */
+}
+.page3_mess{
+    position: absolute;
+    bottom:5%;
+    right: 5%;
+}
+.page3_mess img {
+    width: 5vw;
+    height:auto ;
+}
+
+/* content page 4 */
+.pageFour{
+    position: relative;
+    text-align:  center;
+    height: 100vh;
+    /* opacity: 0; */
+}
+.page4_content{
+    position: absolute;
+    top:10vh;
+    width: 100%;
+}
+.page4_content h3{
+    color: white;
+    font-weight: bold;
+    font-size: 5vh;
+}
+.page4_content h2{
+    color: #F4981C;
+    font-weight: bold;
+    font-size: 7vh;
+}
+
+.page4_img_phonegift{
+    /* bottom:0%; */
+    top:50%;
+    position: absolute;
+    left:50%;
+    transform:translate(-50%,-50%);
+    /* display: none; */
+}
+.page4_img_phonegift img{
+    width: auto;
+    height:150vh;
+    transform: translateY(70vh) scale(0.5);
+}
+.page4_product{
+    display: flex;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,0%);
+}
+.page4_mi1k img{
+    width: 12vw;
+    height: auto;
+}
+.page4_gao1k img{
+    width: 10vw;
+    height: auto;
+}
+.page4_onghut1k img{
+    width: 7vw;
+    height: auto;
+}
+.page4_sua1k img{
+    width: 7vw;
+    height: auto;
+}
+.page4_img_phonedeg {
+    bottom:0%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    /* display: none; */
+    position: absolute;
+}
+.page4_img_phonedeg img{
+    width: auto;
+    height:70vh;
+}
+.page4_content2{
+    position: absolute;
+    width: 100%;
+    bottom:5%;
+}
+.page4_text{
+    color: white;
+    font-size: 4vh;
+    font-weight: bold;
+}
+.page4_ct2_img{
+margin-top: 5vh;
+}
+.page4_img_appstore{
+text-align: right;
+}
+.page4_img_chplay{
+text-align: left;
+}
+.page4_img_appstore img{
+    height: 10vh;
+    width: auto;
+}
+.page4_img_chplay img{
+    height: 10vh;
+    width: auto;
+}
+.page4_downloadapp{
+    margin-top: 5vh;
+
+color: #89D6E8;
+font-size: 5vh;
+font-weight: bold;
+}

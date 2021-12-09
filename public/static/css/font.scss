@@ -1,0 +1,8 @@
+$server_local: "http://localhost:3000/static/font/diavlo.otf";
+$server: "http://103.130.218.139:3000/static/font/diavlo.otf";
+
+@font-face {
+  font-family: "diavlo";
+  src: url($server) format("woff2"),
+       url($server) format("woff");
+}

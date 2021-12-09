@@ -1,0 +1,30 @@
+{
+  "presets": [
+    "next/babel",
+    "@babel/preset-env",
+    "@babel/preset-react",
+    "babel-preset-expo"
+  ],
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "root": ["./"],
+        "alias": {
+          "@Components": "./src/Components",
+          "@Constants": "./src/Constants",
+          "@Server": "./server",
+          "@Static": "./public/static"
+        }
+      }
+    ],
+    [
+      "babel-plugin-styled-components",
+      {
+        "ssr": true
+      }
+    ],
+    ["@babel/plugin-transform-runtime"],
+    ["@babel/plugin-proposal-decorators", { "legacy": true }]
+  ]
+}
