@@ -1,0 +1,740 @@
+{
+  "../../src/Components/Desktop/Footer": [
+    {
+      "id": "./public/static/css/main.scss",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 1,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 2,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/Page1/page1.scss",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 3,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/Desktop/Footer/footer.css",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 4,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/PageBot/bot.scss",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 5,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/Desktop/Page1/page1.css",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 6,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/Desktop/Page2/page2.css",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 7,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./public/static/css/main.scss",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 1,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 2,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/Page1/page1.scss",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 3,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/Desktop/Footer/footer.css",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 4,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/PageBot/bot.scss",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 5,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/Desktop/Page1/page1.css",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 6,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/Desktop/Page2/page2.css",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 7,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/runtime-config.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./src/Components/Desktop/Footer/index.jsx",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./src/Constants/index.jsx",
+      "file": "static/chunks/5.js"
+    }
+  ],
+  "../../src/Components/Desktop/Page1": [
+    {
+      "id": "./public/static/css/main.scss",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 1,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 2,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/Page1/page1.scss",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 3,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/Desktop/Footer/footer.css",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 4,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/PageBot/bot.scss",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 5,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/Desktop/Page1/page1.css",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 6,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/Desktop/Page2/page2.css",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 7,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./public/static/css/main.scss",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 1,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 2,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/Page1/page1.scss",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 3,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/Desktop/Footer/footer.css",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 4,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/PageBot/bot.scss",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 5,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/Desktop/Page1/page1.css",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 6,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/Desktop/Page2/page2.css",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 7,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./node_modules/gsap/CSSPlugin.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/gsap/gsap-core.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/gsap/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/runtime-config.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/scrollmagic-plugin-gsap/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/scrollmagic/scrollmagic/uncompressed/ScrollMagic.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./src/Components/Desktop/Page1/index.jsx",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./src/Constants/index.jsx",
+      "file": "static/chunks/1.js"
+    }
+  ],
+  "../../src/Components/Desktop/Page2": [
+    {
+      "id": "./public/static/css/main.scss",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 1,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 2,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/Page1/page1.scss",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 3,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/Desktop/Footer/footer.css",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 4,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/PageBot/bot.scss",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 5,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/Desktop/Page1/page1.css",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 6,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/Desktop/Page2/page2.css",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 7,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./public/static/css/main.scss",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 1,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 2,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/Page1/page1.scss",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 3,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/Desktop/Footer/footer.css",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 4,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/PageBot/bot.scss",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 5,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/Desktop/Page1/page1.css",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 6,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/Desktop/Page2/page2.css",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 7,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./node_modules/gsap/CSSPlugin.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/gsap/gsap-core.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/gsap/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/runtime-config.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/scrollmagic/scrollmagic/uncompressed/ScrollMagic.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./src/Components/Desktop/Page2/index.jsx",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./src/Constants/index.jsx",
+      "file": "static/chunks/2.js"
+    }
+  ],
+  "../../src/Components/Page1/index": [
+    {
+      "id": "./public/static/css/main.scss",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 1,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 2,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/Page1/page1.scss",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 3,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/Desktop/Footer/footer.css",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 4,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/PageBot/bot.scss",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 5,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/Desktop/Page1/page1.css",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 6,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/Desktop/Page2/page2.css",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 7,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./public/static/css/main.scss",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 1,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 2,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/Page1/page1.scss",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 3,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/Desktop/Footer/footer.css",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 4,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/PageBot/bot.scss",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 5,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/Desktop/Page1/page1.css",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 6,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/Desktop/Page2/page2.css",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 7,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/runtime-config.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./src/Components/Page1/index.jsx",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./src/Constants/index.jsx",
+      "file": "static/chunks/6.js"
+    }
+  ],
+  "../../src/Components/Page2/index": [
+    {
+      "id": "./node_modules/next/dist/next-server/lib/runtime-config.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./src/Components/Page2/index.jsx",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./src/Constants/index.jsx",
+      "file": "static/chunks/7.js"
+    }
+  ],
+  "../../src/Components/Page3/index": [
+    {
+      "id": "./node_modules/next/dist/next-server/lib/runtime-config.js",
+      "file": "static/chunks/8.js"
+    },
+    {
+      "id": "./src/Components/Page3/index.jsx",
+      "file": "static/chunks/8.js"
+    },
+    {
+      "id": "./src/Constants/index.jsx",
+      "file": "static/chunks/8.js"
+    }
+  ],
+  "../../src/Components/Page4/index": [
+    {
+      "id": "./node_modules/next/dist/next-server/lib/runtime-config.js",
+      "file": "static/chunks/9.js"
+    },
+    {
+      "id": "./src/Components/Page4/index.jsx",
+      "file": "static/chunks/9.js"
+    },
+    {
+      "id": "./src/Constants/index.jsx",
+      "file": "static/chunks/9.js"
+    }
+  ],
+  "../../src/Components/Page5/index": [
+    {
+      "id": "./node_modules/next/dist/next-server/lib/runtime-config.js",
+      "file": "static/chunks/10.js"
+    },
+    {
+      "id": "./src/Components/Page5/index.jsx",
+      "file": "static/chunks/10.js"
+    },
+    {
+      "id": "./src/Constants/index.jsx",
+      "file": "static/chunks/10.js"
+    }
+  ],
+  "../../src/Components/Page6/index": [
+    {
+      "id": "./node_modules/next/dist/next-server/lib/runtime-config.js",
+      "file": "static/chunks/11.js"
+    },
+    {
+      "id": "./src/Components/Page6/index.jsx",
+      "file": "static/chunks/11.js"
+    },
+    {
+      "id": "./src/Constants/index.jsx",
+      "file": "static/chunks/11.js"
+    }
+  ],
+  "../../src/Components/PageBot/index": [
+    {
+      "id": "./public/static/css/main.scss",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 1,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 2,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/Page1/page1.scss",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 3,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/Desktop/Footer/footer.css",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 4,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/PageBot/bot.scss",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 5,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/Desktop/Page1/page1.css",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 6,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./src/Components/Desktop/Page2/page2.css",
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": 7,
+      "file": "static/css/styles.chunk.css"
+    },
+    {
+      "id": "./public/static/css/main.scss",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 1,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 2,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/Page1/page1.scss",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 3,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/Desktop/Footer/footer.css",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 4,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/PageBot/bot.scss",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 5,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/Desktop/Page1/page1.css",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 6,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./src/Components/Desktop/Page2/page2.css",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 7,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/runtime-config.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./src/Components/Desktop/Footer/index.jsx",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./src/Components/PageBot/index.jsx",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./src/Constants/index.jsx",
+      "file": "static/chunks/3.js"
+    }
+  ],
+  "../../src/Components/PageFooter/index": [
+    {
+      "id": "./node_modules/next/dist/next-server/lib/runtime-config.js",
+      "file": "static/chunks/12.js"
+    },
+    {
+      "id": "./src/Components/PageFooter/index.jsx",
+      "file": "static/chunks/12.js"
+    },
+    {
+      "id": "./src/Constants/index.jsx",
+      "file": "static/chunks/12.js"
+    }
+  ],
+  "../../src/Components/PageLoading/index": [
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/objectDestructuringEmpty.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/runtime-config.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./src/Components/PageLoading/index.jsx",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./src/Constants/index.jsx",
+      "file": "static/chunks/4.js"
+    }
+  ],
+  "./dev/noop": [
+    {
+      "id": "./node_modules/next/dist/client/dev/noop.js",
+      "file": "static/chunks/0.js"
+    }
+  ]
+}
